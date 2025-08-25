@@ -1,7 +1,7 @@
 [project]
 name = "langbot"
 version = "4.1.0"
-license = "GPL-3.0-or-later"
+license = "MIT"
 description = "高稳定、支持扩展、多模态 - 大模型原生即时通信机器人平台"
 readme = "README.md"
 requires-python = ">=3.10.1"
@@ -82,7 +82,6 @@ classifiers = [
     "Framework :: AsyncIO",
     "Framework :: Robot Framework",
     "Framework :: Robot Framework :: Library",
-    "License :: OSI Approved :: AGPL-3 License",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Topic :: Communications :: Chat",
